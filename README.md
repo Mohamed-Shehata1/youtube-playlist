@@ -1,6 +1,6 @@
-# job-task
+# Youtube playlist
 
-> A Vue.js project
+> Simple Vue.js project
 
 ## Build Setup
 
